@@ -1,5 +1,16 @@
-# User Login System Tutorial
+# User Login System
+## HOMEWORK 2
+Building a basic user login system using Python, Flask, and MongoDB.
 
-Learn how to build a basic user login system using Python, Flask, and MongoDB.
+## Task
+#### Implementing authentication feature:
+    1.1 Listen on localhost:5000
+    1.2 Render authentication form at http://localhost:5000/
+    1.3 Redirect user to profile page if successfully authenticated
+    1.4 Show profile page for authenticated user only at http://localhost:5000/profile
+    1.5 User name and password are stored in Mongodb
 
-This repository contains source code for my tutorial series on YouTube: https://www.youtube.com/playlist?list=PL4JDh0LtP7jr0nNuoW-KB-O2uABkaMhL1
+![image](https://user-images.githubusercontent.com/87770193/221427874-7a8fc57e-45cf-4149-9ac0-a2f3d150e382.png)
+
+
+
